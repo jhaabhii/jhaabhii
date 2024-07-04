@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Abhinav Jha
 - 👀 I’m interested in Technology and development
-- 🌱 I’m currently learning Python Fundamentals
-- 🤞 I’m looking for a job in development
 - 📫 You can connect with me on Linkedin. 
 
 <!---
